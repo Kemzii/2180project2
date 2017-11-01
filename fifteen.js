@@ -34,7 +34,7 @@ window.onload = function()
           }, 500);
           setTimeout(function()
           {
-          alert("The winning text will revert back to normal within ten seconds");
+          alert("Message will disappear after ten seconds");
         }, 1000); 
 
           setTimeout(function()
